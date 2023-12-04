@@ -3,14 +3,11 @@
 
  <img style="float: right;" src="https://avatars.githubusercontent.com/u/118107697?v=4"  width="200px" height = "140px">
 
-- **I am RyanGossling** (Literally Me)
-
--  **Born For The Glorious Drive**
-
  - **I'm Nischal**
 
-
  - **learning new shit**
+
+- **trying to find me glorious purpose ( if i have one xD)**
 
  - **Donate me money so that i can buy** 
  ***GTA IV***
