@@ -13,7 +13,6 @@
 
  - **learning new things**
 
-- **Trying to find my glorious purpose** ( if i have one ***xD***)
-
  - **Donate me money so that i can buy**
  ***GTA VI***
+#We got Me asking for money in github before GTA VI
