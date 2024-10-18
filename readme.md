@@ -8,11 +8,3 @@
 <img style="float: right;" src="https://avatars.githubusercontent.com/u/118107697?v=4"  width="140px" height = "140px">
 
  ***YO!!***
-
- - **I'm Nischal** 
-
- - **learning new things**
-
- - **Donate me money so that i can buy**
- ***GTA VI***
-# We got Me asking for money in github before GTA VI
