@@ -27,4 +27,8 @@ I'm a **third-year computer science student** passionate about **emerging techno
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nischa1Mv&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+### 📫 Contact Me:
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sainischalmv@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nischal-mantri-898508276/)
+
 Feel free to check out my repositories and connect with me for collaborations! 😄
